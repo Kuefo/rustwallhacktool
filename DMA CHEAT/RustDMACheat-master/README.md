@@ -28,10 +28,3 @@ The entirety of the code in this repo is from the credited parties.
 * FOV Changer
 * Bright Caves
 * DTB Fix
-
-## Credits
-* [PCILeech](https://github.com/ufrisk/pcileech)
-* [MemProcFS](https://github.com/ufrisk/MemProcFS)
-* [IL2CPP Dumper](https://github.com/Perfare/Il2CppDumper)
-* [DMALibrary](https://github.com/Metick/DMALibrary/tree/Master)
-* [Arlohewitt](https://github.com/arlohewitt)
